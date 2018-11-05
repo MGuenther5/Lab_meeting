@@ -18,6 +18,7 @@ setwd("/Users/mguenther5/Desktop/R data")
 getwd()
 
 #New attempt from online resource
+library(tidyverse)
 library(ggplot2)
 library(ggmap)
 
